@@ -7,7 +7,24 @@ This is my documentation on my journey on how to build my chat bot
 * Create an organisation
 
 ## To do
-* Read more on Intent, Entity, and Dialogs 
+1. Read more and explain Watson concepts on 
+* Intent
+* Entity
+* Dialogs 
+
+2. Explain machine learning concepts like
+* Supervised Learning
+* Unsupervised Learning
+* Natural Language Processing
+* DataSet, Sample and Feature
+* Confidence
+* Classifier and label
+
+## Major ML Frameworks
+* SciKit for Python
+* TensorFlow
+* AWS Machine Learning
+* IBM Watson
 
 ## Resources
 * [Build a Chatbot with Watson APIs](https://teamtreehouse.com/library/build-a-chatbot-with-watson-apis)
