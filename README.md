@@ -6,6 +6,9 @@ This is my documentation on my journey on how to build my chat bot
 * Create/login account in [Bluemix](https://console.bluemix.net/) - the account allows me to use IBM Cloud Services
 * Create an organisation
 
+## To do
+* Read more on Intent, Entity, and Dialogs 
+
 ## Resources
 * [Build a Chatbot with Watson APIs](https://teamtreehouse.com/library/build-a-chatbot-with-watson-apis)
 * Intro to [Machine Learning by Treehouse](https://teamtreehouse.com/library/machine-learning-basics)
